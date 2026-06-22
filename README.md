@@ -1,4 +1,4 @@
-# I2C-Controller-Complete-RTL-to-GDSII-ASIC-Flow
+
 # I2C Controller — RTL to GDSII Physical Design
 
 A complete **RTL-to-GDSII physical design flow** for an **I2C master–slave communication controller**, implemented in **Verilog HDL** and taken through **synthesis, floorplanning, placement, clock tree synthesis, routing, and signoff** using the **OpenLane** flow on the open-source **SKY130 PDK**.
@@ -277,13 +277,13 @@ GDSII layout viewed in KLayout showing:
 > Screenshot to be added
 
 ```text
-docs/layout.png
+final_layout.png
 ```
 
 Example:
 
 ```markdown
-![Layout](docs/layout.png)
+![Layout](final_layout.png)
 ```
 
 ---
